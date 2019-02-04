@@ -1,0 +1,169 @@
+
+body{
+    font-family: 'Montserrat-Thin', sans-serif;
+  }
+
+i{
+  padding-right: 7px;
+}
+h1{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.6rem;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h3{
+  font-family: 'Montserrat-Thin', sans-serif;
+}
+
+/* class */
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+padding: 0 0 4.5rem 0;
+}
+
+.navbar-brand{
+  font-weight:bold;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 2rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.2rem;
+  font-family: 'Montserrat', sans-serif;
+  }
+
+.download-btn{
+  margin: 3% 5% 5% 0;
+}
+
+.title-image{
+  width: 100%;
+}
+
+.icolor{
+  color: #ff4c68;
+  padding-bottom: 15px;
+}
+
+.icolor:hover{
+  color: #ef8172;
+}
+
+.middle-para{
+  color: #8f8f8f;
+  width: 60%;
+  margin: auto;
+  line-height: 2em;
+}
+
+.middle-div{
+  padding: 55px 0;
+}
+
+.middle-h3{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.testimonial-img{
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+.press-logos{
+  width: 15%;
+  padding: 10px;
+}
+
+.carousel-item{
+  height: 400px;
+  padding: 7% 15%;
+}
+
+.testimonial-place{
+  color: white;
+}
+
+.pricing-col{
+padding: 20px;
+
+}
+
+.card {
+    min-height: 450px;
+}
+
+.footer-h3{
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    font-size: 3.3rem;
+    line-height: 4.3rem;
+    padding-top: 5%;
+}
+
+.footer-icon{
+  padding: 10px 6px 30px 6px;
+}
+
+.footer-icon:hover{
+  color: blue;
+}
+
+.copyright{
+color: #8f8f8f;
+}
+
+/* id */
+
+#title{
+  background-color: #ff4c68;
+  color: #fff;
+
+}
+#features{
+margin: 7% 10%;
+text-align: center;
+}
+
+#testimonials{
+
+  text-align: center;
+  background-color: #ef8172;
+}
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding: 3%;
+}
+#pricing{
+  padding: 0 100px;
+  margin: 7% 10%;
+  text-align: center;
+}
+#cta{
+  background-color: #ff4c68;
+  padding: 0 100px;
+  height:40%;
+  text-align: center;
+}
+#footer{
+  text-align: center;
+  margin: 50px;
+
+}
